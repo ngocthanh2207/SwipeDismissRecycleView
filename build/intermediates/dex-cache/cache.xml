@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/pre-dexed/debug/classes-33a9a7cc7b0991fbf6fa2825fd43f944c153e524.jar" />
+    </item>
+    <item
+        jar="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/pre-dexed/debug/classes-edfed4be1c82bc2a31c0792b1dce066d0e36d975.jar" />
+    </item>
+    <item
+        jar="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/pre-dexed/debug/classes-e51f31b92925908cc872d367885ea6d29cec15cf.jar" />
+    </item>
+    <item
+        jar="/home/thanh/STORAGE/SETUP/CODE/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-386b9c9c305f48cba99086ddbd6a94cdd8ae9b8f.jar" />
+    </item>
+    <item
+        jar="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-38005b26e48dc76a46ac18cac0c705c531abdf3d.jar" />
+    </item>
+    <item
+        jar="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/thanh/Downloads/SwipeToDismissSample-master/app/build/intermediates/pre-dexed/debug/classes-d067f8d68053c1643db01781673d001e3c4833eb.jar" />
+    </item>
+
+</items>
